@@ -1,6 +1,6 @@
 # 🌍 Language Translator App
 
-This is a GUI-based language translator application built using **Python**, **tkinter**, and **googletrans**, developed as part of my internship with **CodeAlpha** (Task 1).
+This is a GUI-based language translator application built using **Python**, **tkinter**, and **googletrans**.
 
 It allows users to translate text from one language to another using a clean, colorful interface.
 
